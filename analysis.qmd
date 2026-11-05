@@ -1,0 +1,9 @@
+---
+title: "Analyzing NBA Recruits"
+author: "Kaitlin Powell"
+format: html
+---
+
+# Analyzing NBA Recruits
+
+This analysis explores whether being a top-ranked high school basketball recruit predicts a future NBA career.
